@@ -1,3 +1,4 @@
 services/frontend-service/
 services/notification-service/
+shared/config/config-local.yml
 README.md
